@@ -1,12 +1,13 @@
 # Nuenv: an experimental Nushell environment for Nix
 
-[![FlakeHub](https://img.shields.io/endpoint?url=https://flakehub.com/f/DeterminateSystems/nuenv/badge)](https://flakehub.com/flake/DeterminateSystems/nuenv)
-![GitHub Actions status badge](https://github.com/DeterminateSystems/nuenv/actions/workflows/ci.yml/badge.svg?branch=main)
-
 > **Warning**: This project is a fun experiment&mdash;and perhaps a source of inspiration for others&mdash;but not something you should use for any serious purpose.
 
 This repo houses an example project that uses [Nushell] as an alternative builder for [Nix] (whose standard environment uses [Bash]).
 For more information, check out [Nuenv: an experimental Nushell environment for Nix][post] on the [Determinate Systems blog][blog].
+
+## This fork
+
+This fork basically just adds support for more recent Nushell versions by fixing a few bugs. May contain more changes in the future if I feel like it.
 
 ## Running the scenario
 
